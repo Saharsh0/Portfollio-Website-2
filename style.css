@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    font-family: 'Are You Serious', cursive;
+    font-weight: bold;
+}
+
+.line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+
+#app {
+    background-color: aquamarine;
+}
+
+#game {
+    background-color: khaki;
+}
+
+#chatbot {
+    background-color: palegreen;
+}
